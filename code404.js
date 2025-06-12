@@ -1,0 +1,1 @@
+var hint = "MzYuNjcxOzExLjYzMg=="; // base64: 36.671;11.632
