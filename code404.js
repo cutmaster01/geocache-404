@@ -1,1 +1,1 @@
-var hint = "MzYuNjcxOzExLjYzMg=="; // base64: 36.671;11.632
+var hint = "hier ist nix"; // Platzhalter
