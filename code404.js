@@ -1,1 +1,1 @@
-var hint = "hier ist nix"; // Platzhalter
+var hint = "Geocaching"; // Platzhalter
